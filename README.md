@@ -79,9 +79,9 @@ Features responsive UI components and dynamic data visualization for presenting 
 ## 📚 Education & Learning Journey
 
 ```
-2021 – 2025  │  B.Ed. Mathematics Education    │  Tanjungpura University
+2021 – 2025   │  B.Ed. Mathematics Education    │  Tanjungpura University
         2025  │  RovoU Coding Camp              │  Online Course (HTML, CSS, JavaScript)
-2025 – Now   │  Frontend Developer              │  Self-Taught via Digital Platforms
+2025 – Now    │  Frontend Developer             │  Self-Taught via Digital Platforms
 ```
 
 ---
